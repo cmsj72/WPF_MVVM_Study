@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35417.141 d17.12
+VisualStudioVersion = 17.12.35417.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF1", "WPF1\WPF1.csproj", "{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{0473C740-5285-4F17-BC8A-0BF0D64A7D17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0473C740-5285-4F17-BC8A-0BF0D64A7D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0473C740-5285-4F17-BC8A-0BF0D64A7D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0473C740-5285-4F17-BC8A-0BF0D64A7D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0473C740-5285-4F17-BC8A-0BF0D64A7D17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpf1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpf1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpf1\\commands\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\commands\\relaycommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpf1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +43,57 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF1\\View\\MainWindow.xaml",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "WPF1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T04:31:05.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPF1\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPF1\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:26:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommands.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\Commands\\RelayCommands.cs",
+              "RelativeDocumentMoniker": "WPF1\\Commands\\RelayCommands.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\Commands\\RelayCommands.cs",
+              "RelativeToolTip": "WPF1\\Commands\\RelayCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:26:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WPF1\\Models\\Person.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\Models\\Person.cs",
+              "RelativeToolTip": "WPF1\\Models\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:26:08.534Z",
+              "EditorCaption": ""
             }
           ]
         }

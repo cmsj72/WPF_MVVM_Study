@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp2\\viewmodels\\tableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\viewmodels\\tableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\common\\booltotimerbuttontextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\common\\booltotimerbuttontextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp2\\common\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\common\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp2\\common\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7A2BE50-CE12-4D7F-B799-4056B65D793D}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\common\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpf1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A79EC6-13F6-4FC3-BA57-EB07BB97E0B4}|WPF1\\WPF1.csproj|solutionrelative:wpf1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\model\\timercountermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\model\\timercountermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\common\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\common\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\model\\clickcountermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\model\\clickcountermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\wpfapp4\\common\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\common\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|e:\\ych\\vs_ych\\wpf_mvvm_study\\consoleapp1\\sample\\funcsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sample\\funcsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\consoleapp1\\sample\\actionsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sample\\actionsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\consoleapp1\\sample\\predicatesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sample\\predicatesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\consoleapp1\\sample\\convarianceandcontravariance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299763F5-BFDD-4A77-BC26-F03734A84684}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sample\\convarianceandcontravariance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,101 +86,180 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DelegateCommand.cs",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Common\\Command\\DelegateCommand.cs",
-              "RelativeDocumentMoniker": "WpfApp2\\Common\\Command\\DelegateCommand.cs",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Common\\Command\\DelegateCommand.cs",
-              "RelativeToolTip": "WpfApp2\\Common\\Command\\DelegateCommand.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BoolToTimerButtonTextConverter.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\BoolToTimerButtonTextConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Common\\BoolToTimerButtonTextConverter.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\BoolToTimerButtonTextConverter.cs",
+              "RelativeToolTip": "WpfApp4\\Common\\BoolToTimerButtonTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:24:22.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "WpfApp2\\Models\\Person.cs",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Models\\Person.cs",
-              "RelativeToolTip": "WpfApp2\\Models\\Person.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:06:22.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BindableBase.cs",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Common\\BindableBase.cs",
-              "RelativeDocumentMoniker": "WpfApp2\\Common\\BindableBase.cs",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\Common\\BindableBase.cs",
-              "RelativeToolTip": "WpfApp2\\Common\\BindableBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:04:34.697Z",
+              "WhenOpened": "2025-04-22T00:21:53.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-28T00:59:39.176Z",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\App.xaml.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp4\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:03:44.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TableViewModel.cs",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\ViewModels\\TableViewModel.cs",
-              "RelativeDocumentMoniker": "WpfApp2\\ViewModels\\TableViewModel.cs",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp2\\ViewModels\\TableViewModel.cs",
-              "RelativeToolTip": "WpfApp2\\ViewModels\\TableViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainWIndowViewModel.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\ViewModel\\MainWIndowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\ViewModel\\MainWIndowViewModel.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\ViewModel\\MainWIndowViewModel.cs",
+              "RelativeToolTip": "WpfApp4\\ViewModel\\MainWIndowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:18:56.253Z",
+              "WhenOpened": "2025-04-21T08:51:10.765Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "2eb19277-8c9b-41a9-8a68-109433c68457",
-        "Display": 1,
-        "X": 714,
-        "Y": 172,
-        "Width": 1946,
-        "Height": 819,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "WPF1\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WPF1\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "WPF1\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "TimerCounterModel.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Model\\TimerCounterModel.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Model\\TimerCounterModel.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Model\\TimerCounterModel.cs",
+              "RelativeToolTip": "WpfApp4\\Model\\TimerCounterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:18:05.977Z",
+              "WhenOpened": "2025-04-21T08:49:48.876Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClickCounterModel.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Model\\ClickCounterModel.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Model\\ClickCounterModel.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Model\\ClickCounterModel.cs",
+              "RelativeToolTip": "WpfApp4\\Model\\ClickCounterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:48:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Common\\DelegateCommand.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\DelegateCommand.cs",
+              "RelativeToolTip": "WpfApp4\\Common\\DelegateCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:30:13.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BindableBase.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\BindableBase.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Common\\BindableBase.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\Common\\BindableBase.cs",
+              "RelativeToolTip": "WpfApp4\\Common\\BindableBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:24:26.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T08:23:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:23:08.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FuncSample.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\FuncSample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sample\\FuncSample.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\FuncSample.cs",
+              "RelativeToolTip": "ConsoleApp1\\Sample\\FuncSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:22:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActionSample.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\ActionSample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sample\\ActionSample.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\ActionSample.cs",
+              "RelativeToolTip": "ConsoleApp1\\Sample\\ActionSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:55:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConvarianceAndContravariance.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\ConvarianceAndContravariance.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sample\\ConvarianceAndContravariance.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\ConvarianceAndContravariance.cs",
+              "RelativeToolTip": "ConsoleApp1\\Sample\\ConvarianceAndContravariance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:10:50.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PredicateSample.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\PredicateSample.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sample\\PredicateSample.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Sample\\PredicateSample.cs",
+              "RelativeToolTip": "ConsoleApp1\\Sample\\PredicateSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:28.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\YCH\\VS_YCH\\WPF_MVVM_Study\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:19:53.099Z"
             }
           ]
         }

@@ -1,0 +1,7 @@
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\YCH\VS_YCH\WPF_MVVM_Study\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

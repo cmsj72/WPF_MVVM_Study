@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{E7A2BE50-CE12-4D7F-B799-4056B65D793D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{6E43245D-105B-4D51-9BEB-BFBE7B853F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{299763F5-BFDD-4A77-BC26-F03734A84684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4", "WpfApp4\WpfApp4.csproj", "{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +33,23 @@ Global
 		{E7A2BE50-CE12-4D7F-B799-4056B65D793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A2BE50-CE12-4D7F-B799-4056B65D793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A2BE50-CE12-4D7F-B799-4056B65D793D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E43245D-105B-4D51-9BEB-BFBE7B853F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E43245D-105B-4D51-9BEB-BFBE7B853F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E43245D-105B-4D51-9BEB-BFBE7B853F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E43245D-105B-4D51-9BEB-BFBE7B853F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299763F5-BFDD-4A77-BC26-F03734A84684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299763F5-BFDD-4A77-BC26-F03734A84684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299763F5-BFDD-4A77-BC26-F03734A84684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299763F5-BFDD-4A77-BC26-F03734A84684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB7B4F-A57D-4892-92AE-E0F44C698E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA45C6CA-8A15-47A9-9F1E-B8BF822F8255}
 	EndGlobalSection
 EndGlobal

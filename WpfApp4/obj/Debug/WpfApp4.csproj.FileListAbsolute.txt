@@ -14,3 +14,4 @@ E:\YCH\VS_YCH\WPF_MVVM_Study\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.c
 E:\YCH\VS_YCH\WPF_MVVM_Study\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
 E:\YCH\VS_YCH\WPF_MVVM_Study\WpfApp4\obj\Debug\WpfApp4.exe
 E:\YCH\VS_YCH\WPF_MVVM_Study\WpfApp4\obj\Debug\WpfApp4.pdb
+E:\YCH\VS_YCH\WPF_MVVM_Study\WpfApp4\obj\Debug\WpfApp4.exe.config
